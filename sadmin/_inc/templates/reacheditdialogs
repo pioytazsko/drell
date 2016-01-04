@@ -1,0 +1,143 @@
+[ru]	[gb]
+Вставить столбец	Insert Column
+Пожалуйста&nbsp;ждите...	Please&nbsp;wait...
+Вставка столбца	Column Placement
+Вставить слева	Insert to the Left Selection
+Вставить справа	Insert to the Right of Selection
+Отмена	Cancel
+Добавить строку	Insert Row
+Добавление строки	Row Placement
+Вставить выше	Insert Above Selection
+Вставить ниже	Insert Below Selection
+Без названия	Untitled
+Предпросмотр	Preview
+Вставить закладку	Insert bookmark
+Имя закладки	Bookmark name
+Добавить картинку	Insert image
+Ширина	Width
+Высота	Height
+Размер	Size
+Предпросмотр недоступен	No preview
+Файл	File
+Тип	Type
+Параметры картинки	Image properties
+Источник	Source
+Расположение	Placement
+Выравнивание	Alignment
+По умолчанию	By default
+В центре	Absolute Middle
+По середине	Middle
+По низу	Bottom
+По верху	Top
+По левому краю	Left
+По правому краю	Right
+Обычное положение	Baseline
+Текст вверху	Text Top
+Текст внизу	Absolute Bottom
+Отступы от текста	Spaces from text
+Сверху	Top
+Снизу	Bottom
+Слева	Left
+Справа	Right
+Предпросмотр	Preview
+Рамка	Border
+Заголовок	Title
+Всплывающая подсказка(alt)	Creates a pop-up message like what you are reading now
+восстановить	reset
+Редактировать свойства таблицы,строки и ячейки	Edit properties of table,row or cell
+Эта ячейка	This cell
+Эта строка	This row
+Эта таблица	This table
+Размер ячейки	Cell size
+Ширина ячейки	Cell width
+Высота ячейки	Cell height
+Выравнивание текста	Text alignment
+Выравнивание по вертикали	Vertical alignment
+Выравнивание по горизонтали	Horizontal alignment
+По центру	Center
+Рамка и тень	Borders and Shading
+Цвет фона	Background Color
+Выбрать...	Choose...
+Фоновая картинка	Background Image
+Отступы	Spacing and Padding
+Между ячейками	Cell Spacing
+Между текстом и ячейкой	Cell Padding
+Ширина таблицы	Table Width
+Высота таблицы	Table Height
+Выравнивание на странице	Align on page
+Толщина рамки	Border Size
+Прорисовка рамки	Border Collapse
+Цвет рамки	Border Color
+Просмотр стиля	Style Preview
+Строка	Row
+Ячейка	Cell
+Применить	Submit
+Размеры таблицы	Table Size
+Найти и заменить	Find and replace
+Пожалуйста укажите строку для поиска	Please type the search string
+При поиске был достигнут конец документа. Щёлкните OK чтобы продолжить поиск с начала документа, щёлкните Отмена для изменения параметров поиска.	End of document was reached. Click OK to start search again or click Cancel for changing search parameters.
+При поиске был достигнут конец документа. Было найдено совпадений: ##matches##. Щёлкните OK чтобы продолжить поиск с начала документа, щёлкните Отмена для изменения параметров поиска.	End of document was reached. Were found ##matches## matches. Click OK to start search again or click Cancel for changing search parameters.
+Найти	Find
+Заменить на	Replace with
+Учитывать регистр	Case sensitive
+Искать только слово целиком	Whole words
+Искать далее	Find more
+Заменить	Replace
+Зменить всё	Replace all
+Закрыть	Close
+Вставить ссылку	Insert hyperlink
+К началу документа	On top of document
+Закладки	Bookmarks
+Ссылка на	Hyperlink to
+Поместить на этот сайт	Place on this site
+Закладка в этом документе	Bookmark in this document
+Адрес электронной почты	Email address
+Адрес Интернет	Web-site address
+Адрес	Address
+Открывать	Open in
+В том же окне	The same window
+В новом окне	New window 
+В родительском окне	Parent window
+В окне самого верхнего уровня	Top level window
+Пример	Example
+Адрес электронной почты	Email address
+Тема	Subject
+Вы можете указать тему сообщения. Например: Предложение по сотрудничеству	You can define subject of the letter. For example: Sales Inquiry
+Вставить горизонтальную линию	Insert horizontal line
+Цвет	Color
+Слить ячейку	Merge cell
+Слить с ячейкой справа	Merge to the cell right 
+Слить с ячейкой снизу	Merge to the cell below
+Вставить из Word	Paste from Word
+Очистка Word HTML. Вставьте текст из Word с помощью сочетания клавиш. (Windows: Ctrl + v, Mac: Apple + v) Потом щёлкните по кнопке Вставить	Clearing Word HTML. Paste text from Word using keys: Windows: Ctrl + v, Mac: Apple + v. Then click Paste button.
+Убрать форматирование стилем	No style format
+Вставить	Paste
+Выбрать цвет	Choose color
+Смайлики	Emoticon Smilies
+Улыбка	Smile
+Стеснительный	Embarrassed
+Подмигивающий	Wink
+Звезда	Star
+Шокированный	Shocked
+Мертвый	Dead
+Большая улыбка	Big smile
+Сонный	Sleepy
+В замешательстве	Confused
+Неодобряющий	Disapprove
+Несчастный	Unhappy
+Одобряющий	Approve
+Злой	Angry
+Злая улыбка	Evil smile
+Клоун	Clown
+Крутой	Cool
+Специальные символы	Special characters
+Вставить	Insert
+Вставить таблицу	Insert table
+Размеры таблицы	Table Size
+Строк	Rows
+Столбцов	Columns
+Отмена слияния ячеек	Unmerge Cell
+Разделить ячейку	Split cell
+Отменить слияние с ячейкой справа	Cancel merging with right cell
+Отменить слияние с ячейкой снизу	Cancel merging with cell below
+Пустой файл	Empty file

@@ -1,0 +1,35 @@
+input {font-family: Arial; background:#D3D6C0;font-size:8pt;color: #000000;}
+input15 {font-family: Arial; background:#D3D6C0;font-size:8pt;color: #000000; width:100%;}
+textarea {font-family: Verdana; background:#EEEEFF;font-size:8pt;color: #000000; width:100%}
+input.inputtitle {font-family: Arial; background:#D3D6C0;font-size:8pt;color: #000000; border:0px;width:100%;overflow:hidden}
+td {font-family: Verdana; font-size: 8pt;font-weight: normal;}
+ul { list-style-type:none; margin-left:14px; color:black; font-family: Verdana; text-decoration:none; font-size: 8pt; color:#000000}
+
+a.normal {color:black; font-family: Verdana; text-decoration:none; font-size: 8pt;}
+
+a.sign 		{color:black; font-family: Verdana; text-decoration:none; font-size: 8pt;}
+a.sign:hover 	{color:black; font-family: Verdana; text-decoration:underline; font-size: 8pt;}
+
+a.normallink {color:black; text-decoration:none; font-family: Verdana; font-size: 8pt;}
+a.normallink:hover {color:#006600; text-decoration:none; font-family: Verdana; font-size: 8pt;}
+
+a.menulink {color:black; text-decoration:none; font-family: Verdana; font-size: 8pt;}
+a.menulink:hover {color:#006600; text-decoration:none; font-family: Verdana; font-size: 8pt;}
+
+a.green {color:green; font-family: Verdana; text-decoration:none; font-size: 8pt;font-weight: bold;}
+a.green:hover {color:green; font-family: Verdana; text-decoration:underline; font-size: 8pt;font-weight: bold;}
+
+a.title {color:black; font-family: Verdana;text-decoration:none; font-size: 12pt;font-weight: bold;}
+a.title:hover {color:#000099; font-family: Verdana; text-decoration:none; font-size: 12pt;font-weight: bold;}
+
+a.error {color:red; font-family: Verdana; text-decoration:none; font-size: 10pt;font-weight: bold;}
+a.error:hover {color:#000099; font-family: Verdana; text-decoration:none; font-size: 12pt;font-weight: bold;}
+
+a.tabletitle {color:white; font-family: Verdana; text-decoration:none; font-size: 8pt;font-weight: bold;}
+a.tabletitle:hover {color:white; font-family: Verdana; text-decoration:none; font-size: 8pt;font-weight: bold;}
+
+a.menu {color:white; text-decoration:none; font-size: 8pt;}
+a.menu:hover {color:#CCCCCC; text-decoration:none; font-size: 8pt;}
+
+a.menu100 {color:white; text-decoration:none; font-size: 8pt; width:100%;}
+a.menu100:hover {color:#CCCCCC; text-decoration:none; font-size: 8pt; width:100%;}

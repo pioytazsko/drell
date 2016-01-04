@@ -1,0 +1,341 @@
+
+
+<html>
+<head>
+<title>cPanel X</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="../style.css">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body onLoad="MM_preloadImages('../images/home_on.gif','../images/logout_on.gif')">
+<table width="603" border="1" cellspacing="2" cellpadding="0" bgcolor="#FFFFFF" bordercolor="#D4D9DB" align="center">
+  <tr valign="top"> 
+    <td height="142"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+        <tr> 
+          <td height="2" colspan="3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/frontend/x/branding/top_01_bg.gif">
+              <tr> 
+                <td><img alt="cPanel" src="/frontend/x/branding/top_01_1.gif" width="637" height="41"></td>
+                <td align="right" width="44"><a target="_top" href="../index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image01','','../images/home_on.gif',1)"><img alt="[ Home ]" name="image01" border="0" src="../images/home_off.gif" width="44" height="41"></a></td>
+                <td align="right" width="44"><a target="_top" href="/logout/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image02','','../images/logout_on.gif',1)"><img alt="[ Logout ]" name="image02" border="0" src="../images/logout_off.gif" width="44" height="41"></a></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr> 
+          <td height="19" colspan="3"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/frontend/x/branding/top_01-sm_bg.gif">
+              <tr>
+                <td align="left" width="145" nowrap><img alt="" src="/frontend/x/branding/top_01-sm_1.gif" width="145" height="70"></td>
+                <td align="left" width="145" nowrap><img alt="" src="/frontend/x/branding/top_01-sm_2.gif" width="145" height="70"></td>
+                <td align="left" width="145" nowrap background="/frontend/x/branding/top_01-sm_3.gif">&nbsp;</td>
+                <td align="left" width="145" nowrap><img alt="" src="/frontend/x/branding/top_01-sm_4.gif" width="145" height="70"></td>
+                <td align="left"><img alt="" src="/frontend/x/branding/top_01-sm_5.gif" width="145" height="70"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr> 
+          <td height="2" colspan="3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/frontend/x/branding/top_03_bg.gif">
+              <tr>
+                <td width="135" nowrap align="left"><img alt="" src="/frontend/x/branding/top_03_1.gif" width="125" height="26"></td>
+                <td align="right"><img alt="" src="/frontend/x/branding/top_03_2.gif" width="600" height="26"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr valign="top"> 
+          <td colspan="3"> 
+            <table width="100%" border="0" cellspacing="10" cellpadding="0">
+              <tr valign="top"> 
+                <td>
+
+
+<div align="center">
+   <table width="550" cellspacing="0" cellpadding="0" border="0">
+      <tr> 
+          <td valign="bottom">&nbsp;</td>
+          <td valign="middle" width="522">
+              <font class="big">Mail Account Maintenance</font><br /><br />
+          </td> 
+          <td valign="bottom">&nbsp;</td>
+      </tr>
+      <tr> 
+          <td></td> 
+          <td>
+             <p><table width="300"><tr><td>
+                      <b><u><font face="helvetica" size="-1">Address</font></u></b></td><td></td><td>
+                      <b><u><font face="helvetica" size="-1">Login</font></u></b></td></tr><tr>
+ <td valign=top><font size="2"><img src="/frontend/x/images/mainacct.jpg"></font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font size="2">siteis</font></td>
+<td></td>
+      <td valign=top><a href="/frontend/x/webmaillogin.html" border="0"><img src="/frontend/x/images/webmail.jpg" align=absmiddle name="image" border="0"></a></td>
+      <td valign=top><a href="aging.html?user=siteis" border="0"><img src="/frontend/x/images/aging.jpg" align=absmiddle border="0"></a></td>
+      <td></td>
+      <td></td>
+
+      <td valign=top><a href="clientconf.html?acct=siteis" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td><td valign=top></td></tr>
+<tr>
+ <td valign=top><font size="2">alexey.kostenko@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">alexey.kostenko@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=alexey.kostenko&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="alexey.kostenko@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=alexey.kostenko@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=alexey.kostenko&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=alexey.kostenko&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=alexey.kostenko@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">andrey.baranovski@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">andrey.baranovski@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=andrey.baranovski&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="andrey.baranovski@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=andrey.baranovski@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=andrey.baranovski&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=andrey.baranovski&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=andrey.baranovski@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">info@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">info@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=info&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="info@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=info@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=info&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=info&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=info@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">info@fialkaby.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">info@fialkaby.com</font></td>
+<td valign=top><a href="dodelpop.html?email=info&domain=fialkaby.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="info@fialkaby.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=info@fialkaby.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=info&domain=fialkaby.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=info&domain=fialkaby.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=info@fialkaby.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">info@fightgym55.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">info@fightgym55.com</font></td>
+<td valign=top><a href="dodelpop.html?email=info&domain=fightgym55.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="info@fightgym55.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=info@fightgym55.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=info&domain=fightgym55.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=info&domain=fightgym55.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=info@fightgym55.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">info@kosmos7.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">info@kosmos7.com</font></td>
+<td valign=top><a href="dodelpop.html?email=info&domain=kosmos7.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="info@kosmos7.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=info@kosmos7.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=info&domain=kosmos7.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=info&domain=kosmos7.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=info@kosmos7.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">info@siteisready.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">info@siteisready.com</font></td>
+<td valign=top><a href="dodelpop.html?email=info&domain=siteisready.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="info@siteisready.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=info@siteisready.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=info&domain=siteisready.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=info&domain=siteisready.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=info@siteisready.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">iren.pranovich@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">iren.pranovich@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=iren.pranovich&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="iren.pranovich@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=iren.pranovich@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=iren.pranovich&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=iren.pranovich&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=iren.pranovich@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">kirill.rudobelets@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">kirill.rudobelets@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=kirill.rudobelets&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="kirill.rudobelets@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=kirill.rudobelets@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=kirill.rudobelets&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=kirill.rudobelets&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=kirill.rudobelets@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">oleg.suprunov@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">oleg.suprunov@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=oleg.suprunov&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="oleg.suprunov@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=oleg.suprunov@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=oleg.suprunov&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=oleg.suprunov&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=oleg.suprunov@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">pavel.lapaev@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">pavel.lapaev@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=pavel.lapaev&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="pavel.lapaev@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=pavel.lapaev@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=pavel.lapaev&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=pavel.lapaev&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=pavel.lapaev@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">sales@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">sales@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=sales&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="sales@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=sales@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=sales&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=sales&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=sales@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">service@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">service@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=service&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="service@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=service@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=service&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=service&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=service@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">svetlana.sabanova@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">svetlana.sabanova@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=svetlana.sabanova&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="svetlana.sabanova@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=svetlana.sabanova@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=svetlana.sabanova&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=svetlana.sabanova&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=svetlana.sabanova@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">vjacheslav.benko@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">vjacheslav.benko@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=vjacheslav.benko&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="vjacheslav.benko@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=vjacheslav.benko@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=vjacheslav.benko&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=vjacheslav.benko&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=vjacheslav.benko@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">vladimir.budenny@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">vladimir.budenny@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=vladimir.budenny&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="vladimir.budenny@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=vladimir.budenny@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=vladimir.budenny&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=vladimir.budenny&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=vladimir.budenny@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr>
+ <td valign=top><font size="2">yury.khololov@belcresco.com</font></td>
+ <td valign=top><img src="/frontend/x/images/arrowr.gif"></td>
+ <td valign=top><font  size="2">yury.khololov@belcresco.com</font></td>
+<td valign=top><a href="dodelpop.html?email=yury.khololov&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/delete.jpg" border=0></a></td><td valign=top>
+               <form action="webmailform.html" method="GET">
+               <input type="hidden" name="user" value="yury.khololov@belcresco.com">
+               <input type="hidden" name="actionhost" value="http://www.siteisready.com:2095">
+               <input type="image" src="/frontend/x/images/webmail.jpg" align=absmiddle class="image"></form>
+               </td>
+               <td valign=top><a href="aging.html?user=yury.khololov@belcresco.com"><img src="/frontend/x/images/aging.jpg"  align=absmiddle border="0"></a></td><td valign=top><a href="editquota.html?email=yury.khololov&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/quota.jpg" border="0"></a></td><td valign=top><a href="passwdpop.html?email=yury.khololov&domain=belcresco.com"><img align=absmiddle src="/frontend/x/images/passwd.jpg" border="0"></a></td>
+<td valign=top><a href="clientconf.html?acct=yury.khololov@belcresco.com" border="0"><img src="/frontend/x/images/confmail.jpg" align=absmiddle border="0"></a></td></tr>
+<tr><td colspan=7><center><font size=+2><b><a href="/frontend/x/mail/pops.html?extras=disk">Show Disk Space Used</a></b></font></td></tr>
+</table><br />
+             <p>Be sure to enable SMTP Authentication in your E-mail client or you may not be able to send mail. If your e-mail client has trouble using a @ sign in the login, you can use +, :, or % sign instead.</p>
+          </td> 
+          <td></td> 
+          </tr> <tr> 
+          <td valign="bottom">&nbsp;</td>
+                <td>
+<center><br><br>
+                 <b>[</b>&nbsp;<a href="addpop2.html">Add Account</a>&nbsp;<b>]</b> 
+                    | <b>[</b>&nbsp;<a href="email.html"><font class="med">Go Back</font></a>&nbsp;<b>]</b>
+                  </center></td> 
+                <td valign="bottom">&nbsp;</td>
+              </tr></table></div><br />
+
+<br></td></tr></table></td></tr><tr align="center"> 
+          <td height="2" colspan="3"> 
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" background="/frontend/x/branding/bottom_bg.gif">
+              <tr align="center"> 
+                <td><img alt="" src="/frontend/x/branding/bottom_label.gif" width="327" height="23"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+<!---cPanel [10.8.0-RELEASE_8] () Copyright (c) 1997-2005 cPanel, Inc. Licensed on ns1.srv4.net --->

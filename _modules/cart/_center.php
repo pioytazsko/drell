@@ -1,0 +1,12 @@
+<?
+if(isset($etext))
+{
+	include($DOCUMENT_ROOT."/_modules/cart/_send.php");
+}
+else	
+{
+	include($DOCUMENT_ROOT."/_modules/cart/_cart.php");
+	if($total>0)
+		include($DOCUMENT_ROOT."/_modules/cart/_orderform.php");
+}
+?>

@@ -1,0 +1,21 @@
+	name	anons	text	archive	attachments	f1	f2	f3	f4	f5	f6	f7	f8	f9	f10	add sublevel	aname for sublevel	show anywhere	add	list	edit	aname	reachedit	rule to show	Рассылка писем	Scripts	Rich text		URL	title	description	keywords
+Страницы сайта	Название	Описание	Содержание		yes									Текст сверху	Email		a2	yes	yes	yes	yes	a1	yes						page.php	yes	yes	yes
+Страницы сайта	Название	Описание	Содержание		yes									Текст сверху	Email		a2	yes	yes	yes	yes	a2	yes						page.php	yes	yes	yes
+Новости	Название	Анонс	Содержание	В баннер	yes									Текст сверху			d2	yes	yes	yes	yes	d1	yes				2		news.php	yes	yes	yes
+Новости	Название	Анонс	Содержание	В баннер	yes									Текст сверху			d2	yes	yes	yes	yes	d2	yes				2		news.php	yes	yes	yes
+Статьи	Название	Анонс	Содержание	Главная	yes												b2	yes	yes	yes	yes	b1	yes							yes	yes	yes
+Статьи	Название	Анонс	Содержание	Главная	yes												b2	yes	yes	yes	yes	b2	yes							yes	yes	yes
+Каталог	Название	Анонс	Содержание		yes			Содержимое (верх)						Текст сверху			e2	yes	yes	yes	yes	e1	yes			Характеристики товаров/params_list.php	8		catalog.php	yes	yes	yes
+Каталог	Название	Анонс	Содержание	Спецпредл.	yes			Содержимое (верх)	Рейтинг	Старая цена	Цена в магазине	Сопутствующие товары	Код	Текст сверху	Цена дисконтная		e3	yes	yes	yes	yes	e2	yes			Характеристики товаров/params_list.php	8		catalog.php	yes	yes	yes
+Каталог	Название	Анонс	Содержание	Спецпредл.	yes	Цена	Бренд	Содержимое (верх)	Рейтинг	Старая цена	Цена в магазине	Сопутствующие товары	Код	Текст сверху	Цена дисконтная		e4	yes	yes	yes	yes	e3	yes			Характеристики товаров/params_list.php	8		catalog.php	yes	yes	yes
+Бренды	Название		Содержимое		yes			Содержимое(верх)						Текст сверху			f2	yes	yes	yes	yes	f1	yes				8		brand.php			
+Бренды	Название	Описание	Содержимое		yes			Содержимое(верх)						Текст сверху			f2	yes	yes	yes	yes	f2	yes				8		brand.php			
+Видео	Название		Содержимое		yes									Текст сверху			h2	yes	yes	yes	yes	h1	yes						video.php	yes	yes	yes
+Видео	Название		Содержимое		yes									Текст сверху			h2	yes	yes	yes	yes	h2	yes						video.php	yes	yes	yes
+Отзывы	Название товара		Отзыв	Отображать	yes	product_id	Имя										g2	yes	yes	yes	yes	g1	yes									
+Отзывы	Название товара		Отзыв	Отображать	yes	product_id	Имя										g2	yes	yes	yes	yes	g2	yes									
+История заказов	Наименование товара																i2	yes	yes	yes	yes	i1	yes
+История заказов	Наименование товара					id товара											i2	yes	yes	yes	yes	i2	yes
+Курсы валют	Название				yes	курс											k2	yes	yes	yes	yes	k1	yes
+Переадресация	Адрес	Куда															j2	yes	yes	yes	yes	j1	yes
+Логотипы	Адрес				yes												l2	yes	yes	yes	yes	l1	yes

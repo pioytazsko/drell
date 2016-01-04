@@ -1,0 +1,60 @@
+info@sisols.com;info@sasha.by
+subscribe@act.by
+http://act.by/attachments/346/noutbuk.txt;http://act.by/attachments/346/ok.gif
+проверка связи
+
+<table style="width: 624pt; border-collapse: collapse;" cellspacing="0" cellpadding="0" width="832" border="0">
+<colgroup>
+<col style="width: 83pt;" width="111">
+<col style="width: 371pt;" width="495">
+<col style="width: 48pt;" width="64">
+<col style="width: 122pt;" width="162"></colgroup>
+<tbody>
+<tr style="height: 24pt;" height="32">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 83pt; border-bottom: #ece9d8; height: 24pt; background-color: transparent;" class="xl31" width="111" height="32"><font face="Arial" size="2">PY521EA</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl32" width="495"><font face="Arial" size="2">HP Compaq nc8230 Centrino-2,26GHz 1024Mb 80Gb ATI x600-128Mb Lan Modem DVD+-RW 
+15,4"(1680x1050) WinXPPro Wi-Fi Bluetooth Warr-36 2,77kg</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 48pt; border-bottom: #ece9d8; background-color: transparent;" class="xl33" width="64"><strong><font face="Arial" color="#993366" size="2">&lt;5</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 122pt; border-bottom: #ece9d8; background-color: transparent;" class="xl34" width="162" x:num="2209"><font size="2">$2 209.0</font></td></tr>
+<tr style="height: 24pt;" height="32">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; height: 24pt; background-color: transparent;" class="xl25" height="32"><font face="Arial" size="2">EY503ES_VAT</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl26" width="495"><font face="Arial"><font size="2">HP Compaq nx6310 CeleronM410(1.46GHz) 256Mb 60Gb Intel(shared)-128Mb<span>  </span>Lan Modem DVD+/-RW 15"(1024x768) FreeDOSWiFi<span>  </span></font><font size="2">Warr-12 2,77kg</font></font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl30"><strong><font face="Arial" color="#ff0000" size="2">Резервы</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl27"><font size="2">1840564р. (845$)</font></td></tr>
+<tr style="height: 24pt;" height="32">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; height: 24pt; background-color: transparent;" class="xl25" height="32"><font face="Arial" size="2">EY368EA_VAT</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl26" width="495"><font face="Arial" size="2">HP Compaq nx6310 CeleronM410-1.46GHz 512Mb 60Gb Intel(shared)-224Mb Lan Modem 
+ComboDVD/CD-RW 15"(1024x768) WinXPPro Wi-Fi Warr-12 2,77kg</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl28"><strong><font face="Arial" color="#008000" size="2">Достат.</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl27"><font size="2">2107952р. (967$)</font></td></tr>
+<tr style="height: 24pt;" height="32">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; height: 24pt; background-color: transparent;" class="xl25" height="32"><font face="Arial" size="2">RH329EA_VAT</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl26" width="495"><font face="Arial"><font size="2">HP Compaq nx6310 Core2DuoT5500(1.83GHz) 512Mb 60Gb Intel950UMA(shared)-224MB<span>  </span>Lan Modem DVD+/-RW 15"(1024x768) noOS WiFi<span>  </span></font><font size="2">Warr-12 2,77kg</font></font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl28"><strong><font face="Arial" color="#008000" size="2">Достат.</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl27"><font size="2">2336400р. (1072$)</font></td></tr>
+<tr style="height: 24pt;" height="32">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; height: 24pt; background-color: transparent;" class="xl25" height="32"><font face="Arial" size="2">EY370EA_VAT</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl26" width="495"><font face="Arial" size="2">HP Compaq nx6310 CoreDuoT2300E(1.66GHz) 512Mb 40Gb Intel(shared)-128Mb Lan Modem 
+ComboDVD/CD-RW 15"(1024x768) FreeDOS Wi-Fi Warr-12 2,77kg</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl28"><strong><font face="Arial" color="#008000" size="2">Достат.</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl27"><font size="2">2154680р. (990$)</font></td></tr>
+<tr style="height: 24pt;" height="32">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; height: 24pt; background-color: transparent;" class="xl25" height="32"><font face="Arial" size="2">RH322EA_VAT</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl26" width="495"><font face="Arial"><font size="2">HP Compaq nx6310 Intel CeleronM430(1.73G) 512Mb 60Gb Intel(shared)-224Mb<span>  </span>Lan Modem DVD+/-RW 15"(1024x768) noOS<span>  </span></font><font size="2">Warr-12 2,77kg</font></font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl28"><strong><font face="Arial" color="#008000" size="2">Достат.</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl27"><font size="2">1931424р. (886$)</font></td></tr>
+<tr style="height: 24pt;" height="32">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; height: 24pt; background-color: transparent;" class="xl25" height="32"><font face="Arial" size="2">RH551EA_VAT</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl26" width="495"><font face="Arial"><font size="2">HP Compaq nx6325 AMD Sempron 3500+ 512Mb 60Gb ATI-Xpress1150l(shared)-128Mb<span>  </span>Lan Modem DVD+/-RW 15"(1024x768) NoOS WiFi<span>  </span></font><font size="2">Warr-12 2,6kg</font></font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl28"><strong><font face="Arial" color="#008000" size="2">Достат.</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl27"><font size="2">1871716р. (859$)</font></td></tr>
+<tr style="height: 36pt;" height="48">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; height: 36pt; background-color: transparent;" class="xl25" height="48"><font face="Arial" size="2">RH558EA_VAT</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl26" width="495"><font face="Arial"><font size="2">HP Compaq nx6325 AMD Turion64X2TL-52 1024Mb 100Gb ATI-Xpress1150l(shared)-128Mb<span>  </span>Lan Modem DVD+/-RW 15"(1400x1050) WinXPHome Bluetooth WiFi<span>  </span></font><font size="2">Warr-12 2,6kg</font></font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl29"><strong><font face="Arial" color="#0000ff" size="2">Мало</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl27"><font size="2">2769932р. (1271$)</font></td></tr>
+<tr style="height: 36pt;" height="48">
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; height: 36pt; background-color: transparent;" class="xl25" height="48"><font face="Arial" size="2">RH556EA_VAT</font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; width: 371pt; border-bottom: #ece9d8; background-color: transparent;" class="xl26" width="495"><font face="Arial"><font size="2">HP Compaq nx6325 AMD Turion64X2TL-52 512Mb 100Gb ATI-Xpress1150l(shared)-128Mb<span>  </span>Lan Modem DVD+/-RW 15"(1024x768) WinXPHome Bluetooth WiFi<span>  </span></font><font size="2">Warr-12 2,6kg</font></font></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl28"><strong><font face="Arial" color="#008000" size="2">Достат.</font></strong></td>
+<td style="border-right: #ece9d8; border-top: #ece9d8; border-left: #ece9d8; border-bottom: #ece9d8; background-color: transparent;" class="xl27"><font size="2">2440240р. (1120$)</font></td></tr></tbody></table>

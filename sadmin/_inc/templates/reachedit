@@ -1,0 +1,75 @@
+[ru]	[gb]
+Пожалуйста&nbsp;ждите...&nbsp;	Please&nbsp;wait...&nbsp;
+Переместите курсор в ту таблицу, строку или столбец, которую Вы хотите изменить	Place cursor in table, row or cell that you want to change
+Разбить можно только объединенные ячейки	Can only split cells that have been merged
+Ячейка справа отсутствует	There is no cell to the right
+Эти ячейки объединить нельзя	Cannot merge cells that span different rows
+Ячейка снизу отсутствует	There is no cell below this one to merge with
+Эти ячейки объединить нельзя	Cannot merge cells with different column spans
+Пожалуйста выделите какой-либо текст для вставки ссылки	Please select some text for hyperlink
+You need to upgrade your web browser to fully enable this editor.	Для работы с редактором вам необходимо обновить браузер.
+Формат	Format
+Шрифт	Font
+Класс	Class
+Размер	Size
+Сохранить	Save
+Печать..	Print
+Найти и заменить...	Find and replace
+Вырезать	Cut
+Копировать	Copy
+Вставить	Paste
+Вставить из Word...	Paste from Word...
+Отменить ввод	Undo
+Повторить ввод	Step forward
+Вставить таблицу...	Insert table...
+Свойства таблицы,строк и колонок...	Properties of table,row or cell...
+Добавить строку...	Add row...
+Удалить строку	Delete row
+Вставить столбец...	Insert column...
+Удалить столбец	Delete column
+Слить ячейки...	Merge cells...
+Отменить слияние ячеек	Cancel cells merging
+Вставить/редактировать картинку...	Insert/edit image...
+Вставить смайлик	Insert smile
+Горизонтальная линия...	Horizontal line...
+Вставить/редактировать ссылку...	Insert/edit hyperlink...
+Вставить/редактировать закладку...	Insert/edit bookmark...
+Специальные символы...	Special characters...
+Форматировать параграф	Paragraph format
+Полужирный	Bold
+Курсив	Italic
+Подчёркивание	Underline
+Выравнивать по левому краю	Align left
+Выравнивать по центру	Align center
+Выравнивать по правому краю	Align right
+Выравнивать по ширине	Align justify
+Нумерованный список	Numbers
+Маркерованный список	Markers
+Уменьшить отступ	Decrease left margin
+Увеличить отступ	Increase left margin
+Цвет шрифта...	Font color...
+Выделение цветом...	Background color...
+Оформление	Design
+HTML	HTML
+Предпросмотр	Preview
+Используйте Shift+Enter для вставки тэга &lt;BR&gt;	Press Shift+Enter for &lt;BR&gt; insertion
+По умолчанию	Default
+Обычный	Normal
+Заголовок	Heading
+Форматированный	Pre Formatted
+Адрес	Address
+Очистить стили	Clear classes
+Параметры картинки	Image properties
+Параметры закладки	Bookmark properties
+Свойства таблицы,строк и колонок...	Properties of table, rows and cells
+Вставить строку выше	Insert row above
+Вставить строку ниже	Insert row bellow
+Вставить столбец слева	Insert left column
+Вставить столбец справа	Insert right column
+Удалить строку	Delete row
+Удалить столбец	Delete column
+Слить с ячейкой справа	Merge to the cell right
+Слить с ячейкой снизу	Merge to the cell bellow
+Отменить слияние с ячейкой справа	Cancel merging with right cell
+Отменить слияние с ячейкой снизу	Cancel merging with cell below
+Вставить форму	Insert form

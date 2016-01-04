@@ -1,0 +1,19 @@
+<?
+$s=Array();
+$cart=split(";",$shopcart);
+for($i=0;$i<count($cart)-1;$i++){
+        $s[$i]=split(":",$cart[$i]);
+	}
+$cart=$s;
+for($i=0;$i<count($cart);$i++){
+	$query="select * from ".$module_name." where id='".$cart[$i][0]."'";
+	$Q->query($DB,$query);
+	$count=$Q->numrows();
+	if($count==0)continue;
+        $row=$Q->getrow();
+	$cost=((integer)(ereg_replace("[^0-9]+","",$row[f1])))*$cart[$i][1];
+	$carttotal+=$cost;
+	$cartcount+=$cart[$i][1];
+	}
+$s=Array();
+?>

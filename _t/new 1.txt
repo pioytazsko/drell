@@ -1,0 +1,2 @@
+$db=mysql_connect("localhost", "garantma_user", "crKAyqBMMaEq");
+mysql_select_db("garantma_db", $db);

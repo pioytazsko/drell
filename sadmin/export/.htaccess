@@ -1,0 +1,21 @@
+RewriteEngine on
+php_flag magic_quotes_gpc off
+php_flag register_globals off
+php_value error_reporting       E_ALL
+php_value display_errors        1
+
+
+RewriteCond %{HTTP_HOST} drel.by
+RewriteCond %{REQUEST_URI} !^/robots
+RewriteCond %{REQUEST_URI} !^/sadmin
+RewriteCond %{REQUEST_URI} !sadminaddons
+RewriteCond %{REQUEST_URI} !^/images
+RewriteCond %{REQUEST_URI} !^/attachments
+RewriteCond %{REQUEST_URI} !^/styles
+RewriteCond %{REQUEST_URI} !^/scripts
+RewriteCond %{REQUEST_URI} !^/webim
+RewriteCond %{REQUEST_URI} !^/support
+RewriteCond %{REQUEST_URI} !^/searchkeyword
+RewriteCond %{REQUEST_URI} !^/sale
+RewriteCond %{REQUEST_URI} !^/import.yml
+RewriteRule ^(.*)$ url.php 

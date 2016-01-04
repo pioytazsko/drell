@@ -1,0 +1,1 @@
+<tr><td style="padding-left:18px"><a href="<? echo get_link('[id]');?>" class="menuleftred">[name]</a></td></tr>
