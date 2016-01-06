@@ -1273,10 +1273,19 @@ width: 100%;
 
 
 .selected_items>div{
-width: 48%;
-    height: 180px;
-    float: left;
-    border: 1px solid green;
-    background-color: beige;
-
+width: 49%;
+height: 180px;
+float: left;
+border: 1px solid #1f3e1f;
+background-color: beige;
+overflow-y: auto;
+margin: 50px 4px;
+    
+}
+.div_line{
+float: left;
+    clear: left;
+    margin: 10px;
+    border: 1px solid grey;
+    padding: 10px;
 }
