@@ -104,9 +104,10 @@ echo"<div id='".$value->id."' class='right_items'>
             save.addEventListener('click', function() {
                 var n_main = document.getElementsByAttribute('main');
                 var n_complect = document.getElementsByAttribute('complect');
+
                 if (n_main.length != 0) {
                     n_main = n_main.pop();
-                    console.log(n_main);
+                    //     console.log(n_main);
                     var arr = Array();
                     var temp = new ItemSale(n_main.attributes.main.value, n_main.value, 1);
                     arr.push(temp);
@@ -114,8 +115,19 @@ echo"<div id='".$value->id."' class='right_items'>
                         arr.push(new ItemSale(n_complect[p].attributes.complect.value, n_complect[p].value, 0))
 
                     }
-
-                    console.log(arr);
+                    //проверка на совпадение элементов arr
+                    var flag = null;
+                    for (var p = 0; p < arr.length; p++) {
+                        for (var j = 0; j < arr.length; j++) {
+                            if ((arr[p].id === arr[j].id)&&(j!=p)) {
+                                flag = 1;
+                            }
+                        }
+                    }
+                    if (flag === 1) {
+                        alert('Вы выбрали два одинкаовых товара');
+                    }
+                    // console.log(arr);
                     var json = JSON.stringify(arr);
                     xhttps = new XMLHttpRequest();
                     xhttps.onreadystatechange = function() {
@@ -136,14 +148,10 @@ echo"<div id='".$value->id."' class='right_items'>
             })
 
             //--------------------------------
-
-
-
-
             var reset = document.getElementById('reset');
             reset.addEventListener('click', function() {
                 var check = document.getElementsByTagName('input');
-                console.log(check);
+                //console.log(check);
                 for (var p = 0; p < check.length; p++) {
                     if (check[p].checked) {
                         check[p].click();
@@ -152,13 +160,13 @@ echo"<div id='".$value->id."' class='right_items'>
                 clear_complect();
             })
 
-
-
             var read = document.getElementById('read');
+
             read.addEventListener('click', function() {
                 var main = document.getElementsByAttribute('main');
                 if (main.length != 0) {
                     main = main.pop();
+                    var item = main;
                     new_main = new ItemSale(main.attributes.main.value, main.value, 1)
                     main = JSON.stringify(new_main);
                     xhttps = new XMLHttpRequest();
@@ -166,11 +174,12 @@ echo"<div id='".$value->id."' class='right_items'>
                         if (xhttps.readyState == 4 && xhttps.status == 200) {
                             //    document.getElementById("demo").innerHTML = xhttp.responseText;
                             var res = xhttps.responseText;
-                            console.log(xhttps.responseText);
+                            // console.log(xhttps.responseText);
                             res = JSON.parse(res);
-                            console.log(res);
+                            //    console.log(res);
                             var right_col = document.getElementById('item_complect');
                             clear_complect();
+                            var main_sale = res[0].sale_item;
                             var div_r_c = document.createElement('div');
                             for (var p = 0; p < res.length; p++) {
                                 var main_span = document.createElement('span');
@@ -188,7 +197,8 @@ echo"<div id='".$value->id."' class='right_items'>
                                 div_r_c.appendChild(div_line);
                             }
 
-
+                            //                            console.log(main_sale);
+                            item.value = main_sale;
 
                             right_col.appendChild(div_r_c);
                         }
@@ -270,15 +280,13 @@ echo"<div id='".$value->id."' class='right_items'>
                             //                            document.getElementById(id).appendChild(newLi);
 
                         };
-                        //                        var select_radio = document.getElementsByName('select');
-                        //                        console.log(select_radio);
-                        //                        for (var p in select_radio) {
-                        //                            select_radio[p].addEventListener("click", function() {
-                        //                                alert()
-                        //                            })
-                        //                        }
                         for (var p in arr_id) {
-                            document.getElementById(arr_id[p]).addEventListener("click", loadDoc);
+                            var left_id = document.getElementsByAttribute('id', arr_id[p]);
+
+                            var temp = selectClass("left_items", left_id);
+
+                            temp.addEventListener("click", loadDoc);
+                            //                            document.getElementById(arr_id[p]).addEventListener("click", loadDoc);
                         };
 
                     }
@@ -296,7 +304,6 @@ echo"<div id='".$value->id."' class='right_items'>
                 xhttp.onreadystatechange = function() {
                     if (xhttp.readyState == 4 && xhttp.status == 200) {
                         var res = JSON.parse(xhttp.responseText)
-                            //                        console.log(res);
                         var arr_id = Array();
                         for (var i = 0; i < res.length; i++) {
 
@@ -362,15 +369,13 @@ echo"<div id='".$value->id."' class='right_items'>
                             }
 
                         };
-                        //                        var select_radio = document.getElementsByName('select');
-                        //                        console.log(select_radio);
-                        //                        for (var p in select_radio) {
-                        //                            select_radio[p].addEventListener("click", function() {
-                        //                                alert()
-                        //                            })
-                        //                        }
+
                         for (var p in arr_id) {
-                            document.getElementById(arr_id[p]).addEventListener("click", loadRightDoc);
+                            var right_id = document.getElementsByAttribute('id', arr_id[p]);
+
+                            var temp = selectClass("right_items", right_id);
+
+                            temp.addEventListener("click", loadRightDoc);
                         };
 
                     }
@@ -433,6 +438,18 @@ echo"<div id='".$value->id."' class='right_items'>
 
                 return nodes;
 
+            }
+
+            function selectClass(name, arr) {
+                var temp = Array();
+                for (var p = 0; p < arr.length; p++) {
+
+                    if (arr[p].className === name) {
+                        //   console.log(arr[p]);
+                        temp.push(arr[p]);
+                    }
+                }
+                return temp.pop();
             }
 
         </script>

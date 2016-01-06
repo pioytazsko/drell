@@ -1,11 +1,11 @@
 <?php
 // mysql_connect('localhost','kuvaldab_drel','pentuh1984');
 // mysql_select_db('kuvaldab_drelby');
-mysql_connect('localhost','root','');
-mysql_select_db('tool');
-//mysql_connect('localhost','toolbyto_serj','kayman');
+//mysql_connect('localhost','root','');
+//mysql_select_db('tool');
+mysql_connect('localhost','toolbyto_serj','kayman');
 //// mysql_select_db('toolbyto_kalibr');
-// mysql_select_db('toolbyto_old');
+ mysql_select_db('toolbyto_old');
 
 $json=$_POST['json'];
 //echo $json;
