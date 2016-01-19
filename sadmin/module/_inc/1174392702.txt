@@ -2,67 +2,67 @@ eurorespect@mail.ru;online_grodno@tut.by;derugo@act.by;fedor_qd@mail.ru;a.piskun
 subscribe@act.by
 http://act.by/attachments/638/act-price.zip
 Обновленный прайс-лист.
-
-<div>
-<div>Уважаемые Клиенты!</div>
-<div>&nbsp;</div>
-<div>Вашему вниманию обновленный прайс-лист <b>компании "Астлайн"</b></div>
-<div>&nbsp;</div>
-<div><b>Обратите внимание на снижение цен на мониторы!</b></div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>ООО "АСТЛАЙН" является первым импортером оборудования:</div>
-<div>                                 <b>Philips</b> (мониторы, мультимедиа), <b>D-Link</b>(сетевое),</div>
-<div>                                 <b>HP</b> (Ноутбуки, Сервера, Принтеры, Сетевое)</div>
-<div>&nbsp;</div>
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-<tbody>
-<tr>
-<td valign="top">
-<div><b><u>Отдел продаж</u></b></div></td>
-<td valign="top">
-<div>&nbsp;</div></td>
-<td valign="top">
-<div>&nbsp;</div></td></tr>
-<tr>
-<td valign="top">
-<div>Малевич Олег</div></td>
-<td valign="top">
-<div><u>malevich@ifttp.bas-net.by</u></div></td>
-<td valign="top">
-<div>Мониторы, принтера</div></td></tr>
-<tr>
-<td valign="top">
-<div>Ковель Александр</div></td>
-<td valign="top">
-<div><u>kovel@ifttp.bas-net.by</u></div></td>
-<td valign="top">
-<div>Ноутбуки</div></td></tr>
-<tr>
-<td valign="top">
-<div>Крицкий Виталий</div></td>
-<td valign="top">
-<div><u>kv@act.by</u></div></td>
-<td valign="top">
-<div>Сетевое оборудование</div></td></tr>
-<tr>
-<td valign="top">
-<div>Моисеенко Андрей</div></td>
-<td valign="top">
-<div><u>amois@ifttp.bas-net.by</u></div></td>
-<td valign="top">
-<div>Проекторы</div></td></tr></tbody></table>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div>С уважением,</div>
-<div>Олег Малевич</div>
-<div>специалист отдела продаж</div>
-<div>ООО "Астлайн"</div>
-<div>-------------------------</div>
-<div>г. Минск, ул. П.Бровки д.19 к.101б</div>
-<div>Телефон + (375 17) 284 11 18</div>
-<div>моб.тел. +(375 29) 754 43 48 </div>
-<div>ICQ# 311314282</div>
-<div>&nbsp;</div>
+
+<div>
+<div>Уважаемые Клиенты!</div>
+<div>&nbsp;</div>
+<div>Вашему вниманию обновленный прайс-лист <b>компании "Астлайн"</b></div>
+<div>&nbsp;</div>
+<div><b>Обратите внимание на снижение цен на мониторы!</b></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>ООО "АСТЛАЙН" является первым импортером оборудования:</div>
+<div>                                 <b>Philips</b> (мониторы, мультимедиа), <b>D-Link</b>(сетевое),</div>
+<div>                                 <b>HP</b> (Ноутбуки, Сервера, Принтеры, Сетевое)</div>
+<div>&nbsp;</div>
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td valign="top">
+<div><b><u>Отдел продаж</u></b></div></td>
+<td valign="top">
+<div>&nbsp;</div></td>
+<td valign="top">
+<div>&nbsp;</div></td></tr>
+<tr>
+<td valign="top">
+<div>Малевич Олег</div></td>
+<td valign="top">
+<div><u>malevich@ifttp.bas-net.by</u></div></td>
+<td valign="top">
+<div>Мониторы, принтера</div></td></tr>
+<tr>
+<td valign="top">
+<div>Ковель Александр</div></td>
+<td valign="top">
+<div><u>kovel@ifttp.bas-net.by</u></div></td>
+<td valign="top">
+<div>Ноутбуки</div></td></tr>
+<tr>
+<td valign="top">
+<div>Крицкий Виталий</div></td>
+<td valign="top">
+<div><u>kv@act.by</u></div></td>
+<td valign="top">
+<div>Сетевое оборудование</div></td></tr>
+<tr>
+<td valign="top">
+<div>Моисеенко Андрей</div></td>
+<td valign="top">
+<div><u>amois@ifttp.bas-net.by</u></div></td>
+<td valign="top">
+<div>Проекторы</div></td></tr></tbody></table>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>С уважением,</div>
+<div>Олег Малевич</div>
+<div>специалист отдела продаж</div>
+<div>ООО "Астлайн"</div>
+<div>-------------------------</div>
+<div>г. Минск, ул. П.Бровки д.19 к.101б</div>
+<div>Телефон + (375 17) 284 11 18</div>
+<div>моб.тел. +(375 29) 754 43 48 </div>
+<div>ICQ# 311314282</div>
+<div>&nbsp;</div>
 <div>&nbsp;</div></div>

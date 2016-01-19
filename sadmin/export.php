@@ -1,7 +1,7 @@
 <?php 
 
 $filename=$_POST['x'];
-$filename='drel.by-'.date('d.m.Y.G_i');echo $filename;
+$filename='tool.by-'.date('d.m.Y.G_i');echo $filename;
 $filename='./temp/'.$filename.'.csv';
 $file=fopen($filename,'w');
 

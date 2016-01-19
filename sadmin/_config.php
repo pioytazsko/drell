@@ -1,12 +1,9 @@
 <?
-//$vDBName="kuvaldab_drelby";
-//$vHostName="localhost";
-//$vUserName="kuvaldab_drel";
-//$vPassword="pentuh1984";
-$vDBName="tool";
+$vDBName="toolbyto_old";
 $vHostName="localhost";
-$vUserName="root";
-$vPassword="";
+$vUserName="toolbyto_serj";
+$vPassword="kayman";
+
 
 $module_name="kalibr";
 $module_ut="kalibrl0001";

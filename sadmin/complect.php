@@ -1,4 +1,8 @@
 <?php 
+if (!isset($_COOKIE['adminusername']) and !isset($_COOKIE['adminpassword'])){header("Location:/sadmin/");};
+?> 
+<?php
+
 include("_config.php");
 include("_mysql.php");
 class ItemsCat{
@@ -21,7 +25,7 @@ while($result=mysql_fetch_assoc($res)){
 $cat[]=new ItemsCat($result['name'],$result['id'],$result['rid']);
 }  
 
-//Р·Р°РїСЂРѕСЃ РЅР°  РЅР°Р»РёС‡РёРµ СЃРєРёРґРѕРє РґР»СЏ С‚РѕРІР°СЂРѕРІ??? РїРѕРґ РєРѕРїСЂРѕСЃРѕРј
+//запрос на  наличие скидок для товаров??? под копросом
 
 
 
@@ -99,7 +103,7 @@ echo"<div id='".$value->id."' class='right_items'>
 
 
             //--------------------------------
-            //СЃРѕС…СЂР°РЅРµРЅРёРµ РІ Р±Рґ
+            //сохранение в бд
             var save = document.getElementById('save');
             save.addEventListener('click', function() {
                 var n_main = document.getElementsByAttribute('main');
@@ -115,7 +119,7 @@ echo"<div id='".$value->id."' class='right_items'>
                         arr.push(new ItemSale(n_complect[p].attributes.complect.value, n_complect[p].value, 0))
 
                     }
-                    //РїСЂРѕРІРµСЂРєР° РЅР° СЃРѕРІРїР°РґРµРЅРёРµ СЌР»РµРјРµРЅС‚РѕРІ arr
+                    //проверка на совпадение элементов arr
                     var flag = null;
                     for (var p = 0; p < arr.length; p++) {
                         for (var j = 0; j < arr.length; j++) {
@@ -125,7 +129,7 @@ echo"<div id='".$value->id."' class='right_items'>
                         }
                     }
                     if (flag === 1) {
-                        alert('Р’С‹ РІС‹Р±СЂР°Р»Рё РґРІР° РѕРґРёРЅРєР°РѕРІС‹С… С‚РѕРІР°СЂР°');
+                        alert('Вы выбрали два одинкаовых товара');
                     }
                     // console.log(arr);
                     var json = JSON.stringify(arr);
@@ -142,7 +146,7 @@ echo"<div id='".$value->id."' class='right_items'>
                     var str = 'json=' + json;
                     xhttps.send(str);
                 } else {
-                    alert("РќРµ РІС‹Р±СЂР°РЅ С‚РѕРІР°СЂ РґР»СЏ РєРѕС‚РѕСЂРѕРіРѕ Р±СѓРґРµС‚ РєРѕРјРїР»РµРєС‚");
+                    alert("Не выбран товар для которого будет комплект");
                 }
 
             })
@@ -209,7 +213,7 @@ echo"<div id='".$value->id."' class='right_items'>
                     var str = 'id=' + main;
                     xhttps.send(str);
                 } else {
-                    alert('РЅРµ РІС‹Р±СЂР°РЅ С‚РѕРІР°СЂ')
+                    alert('не выбран товар')
                 }
             })
 
@@ -235,7 +239,7 @@ echo"<div id='".$value->id."' class='right_items'>
                                 radio_new.setAttribute('name', 'select');
                                 radio_new.setAttribute('id', res[i]['id']);
                                 radio_new.addEventListener("click", function() {
-                                    //РґРѕР±Р°РІРёРј РІС‹Р±СЂР°РЅРЅС‹Р№ С‚РѕРІР°СЂ 
+                                    //добавим выбранный товар 
 
                                     var main = document.getElementById('main_item');
                                     //                                    console.log(main.firstChild);
@@ -318,7 +322,7 @@ echo"<div id='".$value->id."' class='right_items'>
                                 check_new.setAttribute('name', 'select');
                                 check_new.setAttribute('id', res[i]['id']);
                                 check_new.addEventListener("click", function() {
-                                    //РґРѕР±Р°РІРёРј РІС‹Р±СЂР°РЅРЅС‹Р№ С‚РѕРІР°СЂ 
+                                    //добавим выбранный товар 
                                     var right_col = document.getElementById('item_complect');
                                     if (this.checked === true) {
 
